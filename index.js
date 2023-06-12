@@ -1,5 +1,5 @@
-const name = "joe";
-const height = 74;
+const name = "Susan";
+const height = 34;
     
 const message = `${name} is ${height} inches tall`;
 
